@@ -45,6 +45,6 @@ This project demonstrates the ability to clean, visualize, and interpret real-wo
 
 📂 Dataset: menu.csv
 
-💻 Code: Google Colab Notebook
+💻 Code: https://colab.research.google.com/drive/1WilqOklOPlPDnR-WicWnHMG9aByuKtZt?usp=sharing
 
 📺 Video Explanation: YouTube Video Link
