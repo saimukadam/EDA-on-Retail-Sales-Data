@@ -1,4 +1,4 @@
-🧩 EDA on Retail Sales Data (McDonald’s Menu Data)
+# 🧩 EDA on Retail Sales Data (McDonald’s Menu Data)
 
 Internship: Oasis Infobyte | Domain: Data Analytics
 
