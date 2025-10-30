@@ -47,4 +47,4 @@ This project demonstrates the ability to clean, visualize, and interpret real-wo
 
 💻 Code: https://colab.research.google.com/drive/1WilqOklOPlPDnR-WicWnHMG9aByuKtZt?usp=sharing
 
-📺 Video Explanation: YouTube Video Link
+📺 Video Explanation: https://www.linkedin.com/posts/sai-mukadam-54a416267_dataanalytics-eda-python-activity-7389767574869258240-Nn1q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFhHIoBi2qASKyxOhnRLbthF3I_4mW9roA
